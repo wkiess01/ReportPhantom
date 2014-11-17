@@ -1,0 +1,16 @@
+Z:\Systems Administration\Walter\Report Phantom_.Net\Upgraded\ReportPhantomSupport\bin\Release\ReportPhantomSupport.dll
+Z:\Systems Administration\Walter\Report Phantom_.Net\Upgraded\ReportPhantomSupport\bin\Release\ReportPhantomSupport.pdb
+Z:\Systems Administration\Walter\Report Phantom_.Net\Upgraded\ReportPhantomSupport\bin\Release\UpgradeHelpers.VB6.dll
+Z:\Systems Administration\Walter\Report Phantom_.Net\Upgraded\ReportPhantomSupport\bin\Release\UpgradeHelpers.VB6.pdb
+Z:\Systems Administration\Walter\Report Phantom_.Net\Upgraded\ReportPhantomSupport\bin\Release\UpgradeHelpers.VB6.xml
+Z:\Systems Administration\Walter\Report Phantom_.Net\Upgraded\ReportPhantomSupport\obj\x86\Release\ReportPhantomSupport.csprojResolveAssemblyReference.cache
+Z:\Systems Administration\Walter\Report Phantom_.Net\Upgraded\ReportPhantomSupport\obj\x86\Release\ReportPhantomSupport.dll
+Z:\Systems Administration\Walter\Report Phantom_.Net\Upgraded\ReportPhantomSupport\obj\x86\Release\ReportPhantomSupport.pdb
+C:\Users\Walter.SAPS\Documents\Visual Studio 2010\Projects\Utilities\Report Phantom_.Net\Upgraded\ReportPhantomSupport\bin\Release\ReportPhantomSupport.dll
+C:\Users\Walter.SAPS\Documents\Visual Studio 2010\Projects\Utilities\Report Phantom_.Net\Upgraded\ReportPhantomSupport\bin\Release\ReportPhantomSupport.pdb
+C:\Users\Walter.SAPS\Documents\Visual Studio 2010\Projects\Utilities\Report Phantom_.Net\Upgraded\ReportPhantomSupport\bin\Release\UpgradeHelpers.VB6.dll
+C:\Users\Walter.SAPS\Documents\Visual Studio 2010\Projects\Utilities\Report Phantom_.Net\Upgraded\ReportPhantomSupport\bin\Release\UpgradeHelpers.VB6.pdb
+C:\Users\Walter.SAPS\Documents\Visual Studio 2010\Projects\Utilities\Report Phantom_.Net\Upgraded\ReportPhantomSupport\bin\Release\UpgradeHelpers.VB6.xml
+C:\Users\Walter.SAPS\Documents\Visual Studio 2010\Projects\Utilities\Report Phantom_.Net\Upgraded\ReportPhantomSupport\obj\x86\Release\ReportPhantomSupport.csprojResolveAssemblyReference.cache
+C:\Users\Walter.SAPS\Documents\Visual Studio 2010\Projects\Utilities\Report Phantom_.Net\Upgraded\ReportPhantomSupport\obj\x86\Release\ReportPhantomSupport.dll
+C:\Users\Walter.SAPS\Documents\Visual Studio 2010\Projects\Utilities\Report Phantom_.Net\Upgraded\ReportPhantomSupport\obj\x86\Release\ReportPhantomSupport.pdb
